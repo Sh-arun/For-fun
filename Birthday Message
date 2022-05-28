@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Happy Birthday</title>
+ <meta charset="utf-8" />
+</head>
+<body>
+  <script src="confetti.js"></script>
+
+ <div id="birthdayCard">
+  <div class="balloon"></div>
+<div class="balloon"></div>
+<div class="balloon"></div>
+<div class="balloon"></div>
+<div class="balloon"></div>
+  <h1><p class= "birthdaymessage"> Happy Birthday, <span class="redText">Shrika!</span>!<p></h1>
+  <p class="message">Happy Birthday, your so awesome!</p>
+  <p class="message">  I hope you had an amazing birthday, and a lot of good butter chicken to go along with it. <p class="message"> I wasn't sure what you would like, so I decided to go with a fool proof ( in my opinion ) tactic:  Puns. <p class="message"> ( blame Amuktha )  Lemme know how your birthday was on Tuesday!  Oh and have you heard?  That day, we get ice creaaaammm!</p>
+  <p class="signature">–Shivani</p>
+   <h1> <p class= "jokess"> a) How does the moon cut its hair? <p class= "jokess"> B.Why are spiders such know-it-alls? / A. They’re always on the web..<p class= "jokess">  C. ( for this one, you get a riddle!!) What has 13 hearts, but no lungs or stomach?  <p class= "jokess"> answers are on the bottom! </p> <h1>
+<img src="https://asset.holidaycardsapp.com/assets/card/y_bfork_002.png" alt="gif">
+
+
+     <h1> <p class= "answerss"> A)  E-clips it.<p class= "answerss"> B)  B.Why are spiders such know-it-alls?<p class= "answerss"> C. A deck of cards <p class= "answerss">( cuz if you think about it, a deck of cards has 13 heart cards, and no lun- you probably got it) </p><h1>
+
+ </div>
+</body>
+</html>
